@@ -1,5 +1,5 @@
-# WolfBot
-This is the source of the Crypto currency trading bot running on: https://wolfbot.org
+# zillion
+The smart trading bot.
 
 It is written in TypeScript for NodeJS + MongoDB.
 
